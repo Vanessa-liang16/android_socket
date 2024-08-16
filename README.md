@@ -1,3 +1,1 @@
-"# android_socket" 
-"# android_socket" 
-"# android_socket" 
+put all data and file into a file name "Android_Socket"
